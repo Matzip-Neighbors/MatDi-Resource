@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-18T16:24:06.370Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="rCg_J68qUGdiJ9dJDZkf" version="16.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-18T16:27:53.262Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="cNlZZ7JR-dyoLVSU3y80" version="16.6.1" type="github">
   <diagram id="3h0F3K4Vw5aKkHfiEKUe" name="Page-1">
     <mxGraphModel dx="2591" dy="2452" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -153,7 +153,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="MTadhUuqiZX7VN4WqaYI-53" value="파일 저장" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="555" y="900" width="60" height="60" as="geometry" />
+          <mxGeometry x="580" y="730" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MTadhUuqiZX7VN4WqaYI-55" value="닉네임 &lt;br&gt;저장" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="460" y="235" width="60" height="60" as="geometry" />
@@ -220,9 +220,6 @@
         <mxCell id="UF-n6yL8XeqxhKyZcMxk-30" value="닉네임 검증 룰 :닉네임 형식 체크도 해야함. 2자도 체크도 해야하고 특수문자나 최대 몇글자인지?(이건 협의 후에)" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="230" y="135" width="550" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="UF-n6yL8XeqxhKyZcMxk-32" value="파일 용량 체크 파일 형식,해상도 체크 추가" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="180" y="990" width="230" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="UF-n6yL8XeqxhKyZcMxk-33" value="다이어리 DB" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="-170" y="890" width="60" height="60" as="geometry" />
         </mxCell>
@@ -244,13 +241,16 @@
             <mxPoint x="-90" y="530" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="qZOSnNFpBRVMl0FgHpjE-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qZOSnNFpBRVMl0FgHpjE-7" target="MTadhUuqiZX7VN4WqaYI-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="qZOSnNFpBRVMl0FgHpjE-7" value="파일 업로드 성공" style="ellipse;whiteSpace=wrap;html=1;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="400" y="900" width="120" height="60" as="geometry" />
+          <mxGeometry x="410" y="730" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qZOSnNFpBRVMl0FgHpjE-11" value="이미지 파일이&lt;br&gt;아닌 경우" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qZOSnNFpBRVMl0FgHpjE-8" target="qZOSnNFpBRVMl0FgHpjE-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="qZOSnNFpBRVMl0FgHpjE-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qZOSnNFpBRVMl0FgHpjE-8" target="qZOSnNFpBRVMl0FgHpjE-13">
+        <mxCell id="qZOSnNFpBRVMl0FgHpjE-14" value="성공" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qZOSnNFpBRVMl0FgHpjE-8" target="qZOSnNFpBRVMl0FgHpjE-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qZOSnNFpBRVMl0FgHpjE-8" value="프로필 사진&amp;nbsp;&lt;br&gt;형식 체크" style="rhombus;whiteSpace=wrap;html=1;rounded=0;strokeWidth=2;" vertex="1" parent="1">
@@ -261,6 +261,11 @@
         </mxCell>
         <mxCell id="qZOSnNFpBRVMl0FgHpjE-10" value="이미지 파일 형식&lt;br&gt;에러 출력" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="35" y="590" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qZOSnNFpBRVMl0FgHpjE-38" value="성공" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qZOSnNFpBRVMl0FgHpjE-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="409.5" y="760" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="qZOSnNFpBRVMl0FgHpjE-13" value="프로필 사진&amp;nbsp;&lt;br&gt;해상도 체크" style="rhombus;whiteSpace=wrap;html=1;rounded=0;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="239.5" y="720" width="90" height="80" as="geometry" />
