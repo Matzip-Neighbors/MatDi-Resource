@@ -1,1 +1,52 @@
-<mxfile host="app.diagrams.net" modified="2022-02-19T06:00:15.227Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" version="16.6.1" etag="uGjeJWrFlVFx23hB3evC" type="github"><diagram id="f-wdtSK4ejGGPJ20R3xY">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-02-19T06:15:50.292Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="OcEF_Ts_qjPIcBbF_uL-" version="16.6.1" type="github">
+  <diagram id="f-wdtSK4ejGGPJ20R3xY" name="Page-1">
+    <mxGraphModel dx="1209" dy="785" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="KR35UKa0iR5ksp2mOAbA-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KR35UKa0iR5ksp2mOAbA-1" target="KR35UKa0iR5ksp2mOAbA-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KR35UKa0iR5ksp2mOAbA-1" value="다이어리 리스트로 이동" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KR35UKa0iR5ksp2mOAbA-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KR35UKa0iR5ksp2mOAbA-2" target="KR35UKa0iR5ksp2mOAbA-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KR35UKa0iR5ksp2mOAbA-2" value="다이어리 작성 부분 란에 자세히 보기 클릭" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KR35UKa0iR5ksp2mOAbA-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KR35UKa0iR5ksp2mOAbA-7" target="KR35UKa0iR5ksp2mOAbA-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KR35UKa0iR5ksp2mOAbA-7" value="다이어리 디테일 페이지" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KR35UKa0iR5ksp2mOAbA-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KR35UKa0iR5ksp2mOAbA-9" target="KR35UKa0iR5ksp2mOAbA-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KR35UKa0iR5ksp2mOAbA-9" value="맛집 디테일 페이지" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="690" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KR35UKa0iR5ksp2mOAbA-11" value="리뷰창 클릭" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="890" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KR35UKa0iR5ksp2mOAbA-14" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="950.25" y="440" as="sourcePoint" />
+            <mxPoint x="549" y="300" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="550.25" y="440" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KR35UKa0iR5ksp2mOAbA-15" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="950" y="440" as="sourcePoint" />
+            <mxPoint x="950" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
