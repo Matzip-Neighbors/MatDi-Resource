@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-19T13:42:21.484Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="t9k5grDwPl5VoGVGCDIA" version="16.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-19T13:46:41.409Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="-OOknBggg_Rh02smcch-" version="16.6.1" type="github">
   <diagram id="f-wdtSK4ejGGPJ20R3xY" name="Page-1">
     <mxGraphModel dx="1209" dy="785" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -140,6 +140,9 @@
         <mxCell id="KR35UKa0iR5ksp2mOAbA-52" value="&lt;b&gt;리뷰 등록 버튼&lt;br&gt;&amp;nbsp;활성화&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=2;rounded=1;arcSize=11;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="1260" y="480" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="bGrC2pud4FnmQ-Y75pje-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" edge="1" parent="1" source="KR35UKa0iR5ksp2mOAbA-54" target="bGrC2pud4FnmQ-Y75pje-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="KR35UKa0iR5ksp2mOAbA-54" value="리뷰&lt;br&gt;저장" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;fontSize=14;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="1460" y="480" width="60" height="60" as="geometry" />
         </mxCell>
@@ -232,6 +235,9 @@
         </mxCell>
         <mxCell id="KR35UKa0iR5ksp2mOAbA-83" value="&lt;b&gt;리뷰 등록 버튼&lt;br&gt;&amp;nbsp;활성화&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=2;rounded=1;arcSize=11;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="1840" y="740" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bGrC2pud4FnmQ-Y75pje-55" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" edge="1" parent="1" source="KR35UKa0iR5ksp2mOAbA-84" target="bGrC2pud4FnmQ-Y75pje-54">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="KR35UKa0iR5ksp2mOAbA-84" value="리뷰&lt;br&gt;저장" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;fontSize=14;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="2040" y="740" width="60" height="60" as="geometry" />
@@ -422,6 +428,12 @@
         </mxCell>
         <mxCell id="bGrC2pud4FnmQ-Y75pje-48" value="&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;메시지 모달창 &lt;br&gt;해제&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1620" y="1920" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bGrC2pud4FnmQ-Y75pje-51" value="&lt;b&gt;메인페이지로 이동&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1600" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bGrC2pud4FnmQ-Y75pje-54" value="&lt;b&gt;메인페이지로 이동&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="2160" y="740" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
