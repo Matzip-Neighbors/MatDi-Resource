@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-19T13:46:41.409Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="-OOknBggg_Rh02smcch-" version="16.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-19T13:57:31.506Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="Zxddlqaf_xT_vSBqBUPz" version="16.6.1" type="github">
   <diagram id="f-wdtSK4ejGGPJ20R3xY" name="Page-1">
     <mxGraphModel dx="1209" dy="785" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -215,19 +215,19 @@
         <mxCell id="KR35UKa0iR5ksp2mOAbA-91" value="&lt;b&gt;성공&lt;/b&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;strokeWidth=1;" parent="1" source="KR35UKa0iR5ksp2mOAbA-78" target="KR35UKa0iR5ksp2mOAbA-81" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="KR35UKa0iR5ksp2mOAbA-78" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;사진 등록&lt;/font&gt;&lt;/b&gt;" style="html=1;strokeWidth=2;shape=manualInput;whiteSpace=wrap;rounded=1;size=26;arcSize=11;" parent="1" vertex="1">
+        <mxCell id="KR35UKa0iR5ksp2mOAbA-78" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;사진 수정&lt;/font&gt;&lt;/b&gt;" style="html=1;strokeWidth=2;shape=manualInput;whiteSpace=wrap;rounded=1;size=26;arcSize=11;" parent="1" vertex="1">
           <mxGeometry x="1470" y="740" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KR35UKa0iR5ksp2mOAbA-90" value="&lt;b&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;성공&lt;/font&gt;&lt;/b&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;strokeWidth=1;" parent="1" source="KR35UKa0iR5ksp2mOAbA-79" target="KR35UKa0iR5ksp2mOAbA-78" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="KR35UKa0iR5ksp2mOAbA-79" value="&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;별점 등록&lt;/b&gt;&lt;/font&gt;" style="html=1;strokeWidth=2;shape=manualInput;whiteSpace=wrap;rounded=1;size=26;arcSize=11;" parent="1" vertex="1">
+        <mxCell id="KR35UKa0iR5ksp2mOAbA-79" value="&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;별점 수정&lt;/b&gt;&lt;/font&gt;" style="html=1;strokeWidth=2;shape=manualInput;whiteSpace=wrap;rounded=1;size=26;arcSize=11;" parent="1" vertex="1">
           <mxGeometry x="1270" y="740" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KR35UKa0iR5ksp2mOAbA-80" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;strokeWidth=1;" parent="1" source="KR35UKa0iR5ksp2mOAbA-81" target="KR35UKa0iR5ksp2mOAbA-83" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="KR35UKa0iR5ksp2mOAbA-81" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;리뷰 작성&lt;/font&gt;&lt;/b&gt;" style="html=1;strokeWidth=2;shape=manualInput;whiteSpace=wrap;rounded=1;size=26;arcSize=11;" parent="1" vertex="1">
+        <mxCell id="KR35UKa0iR5ksp2mOAbA-81" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;리뷰 수정&lt;/font&gt;&lt;/b&gt;" style="html=1;strokeWidth=2;shape=manualInput;whiteSpace=wrap;rounded=1;size=26;arcSize=11;" parent="1" vertex="1">
           <mxGeometry x="1670" y="740" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KR35UKa0iR5ksp2mOAbA-82" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;strokeWidth=1;" parent="1" source="KR35UKa0iR5ksp2mOAbA-83" target="KR35UKa0iR5ksp2mOAbA-84" edge="1">
@@ -344,7 +344,7 @@
           <mxGeometry x="760" y="1380" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bGrC2pud4FnmQ-Y75pje-16" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;댓글 출력 및 저장&lt;/font&gt;&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=2;rounded=1;arcSize=11;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="1000" y="1260" width="120" height="60" as="geometry" />
+          <mxGeometry x="1020" y="1260" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bGrC2pud4FnmQ-Y75pje-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
