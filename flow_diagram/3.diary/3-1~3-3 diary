@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-20T10:23:45.237Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="FzxRQ7NpP-qTenQsOzha" version="16.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-20T10:28:27.485Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="_ZH_XG0l6sjlypefesZX" version="16.6.1" type="github">
   <diagram id="f-wdtSK4ejGGPJ20R3xY" name="Page-1">
     <mxGraphModel dx="1422" dy="798" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -270,7 +270,7 @@
         <mxCell id="bGrC2pud4FnmQ-Y75pje-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="bGrC2pud4FnmQ-Y75pje-2" target="bGrC2pud4FnmQ-Y75pje-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="bGrC2pud4FnmQ-Y75pje-35" value="&lt;b&gt;본인이 쓴 댓글만 버튼 활성화&lt;/b&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" parent="bGrC2pud4FnmQ-Y75pje-4" vertex="1" connectable="0">
+        <mxCell id="bGrC2pud4FnmQ-Y75pje-35" value="&lt;b&gt;본인이 쓴 댓글만 수정 버튼 활성화&lt;/b&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" parent="bGrC2pud4FnmQ-Y75pje-4" vertex="1" connectable="0">
           <mxGeometry x="0.12" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -343,7 +343,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="bGrC2pud4FnmQ-Y75pje-38" value="&lt;b&gt;본인이 쓴 댓글만 버튼 활성화&lt;/b&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" parent="bGrC2pud4FnmQ-Y75pje-30" vertex="1" connectable="0">
+        <mxCell id="bGrC2pud4FnmQ-Y75pje-38" value="&lt;b&gt;본인이 쓴 댓글만 삭제 버튼 활성화&lt;/b&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" parent="bGrC2pud4FnmQ-Y75pje-30" vertex="1" connectable="0">
           <mxGeometry x="0.5583" y="-3" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
