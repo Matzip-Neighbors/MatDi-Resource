@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-02-20T10:51:54.381Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="9-8pDEjx2nfjV03lZq9c" version="16.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-20T13:33:20.616Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="om1LkhXbKvUxDXbhMjc8" version="16.6.1" type="github">
   <diagram id="2e-4wIzPx58CHaIYV5m3" name="Page-1">
-    <mxGraphModel dx="1040" dy="564" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1653" dy="752" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -57,7 +57,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="z6UX9JT35oQlXONaHqC_-17" value="S3로 이미지 업로드" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="766" y="310" width="120" height="60" as="geometry" />
+          <mxGeometry x="790" y="310" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="z6UX9JT35oQlXONaHqC_-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=19;fontColor=#0000FF;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="z6UX9JT35oQlXONaHqC_-19" target="z6UX9JT35oQlXONaHqC_-28" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -162,6 +162,18 @@
         </mxCell>
         <mxCell id="z6UX9JT35oQlXONaHqC_-78" value="클라이언트에게&lt;br&gt;저장된 이미지 &lt;br&gt;URL 전송" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="1136" y="1060" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lDRnm3ZCDw2f5Cuceqa1-4" value="상태체크는 너무 추상적이기 때문에 상세하게 표시&lt;br&gt;- 해상도&lt;br&gt;- 이미지 크기&lt;br&gt;- 이미지 갯수&lt;br&gt;- 파일 확장자 체크&lt;br&gt;- 파일 손상체크(보류)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="574" y="460" width="306" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="lDRnm3ZCDw2f5Cuceqa1-6" value="S3에서 가져올 때는 Path만 넣고&lt;br&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1010" y="460" width="320" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lDRnm3ZCDw2f5Cuceqa1-7" value="사진 조회 exception 처리 고려 필요" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="270" y="590" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lDRnm3ZCDw2f5Cuceqa1-8" value="글만 수정한다면 서버에서 이미지 변경 여부만 체크" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="660" y="1000" width="300" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
