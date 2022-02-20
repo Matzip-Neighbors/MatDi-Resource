@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-02-19T08:51:33.772Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="r1JCHQ7dHF4pmcqnoUMt" version="16.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-20T09:16:58.697Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="yyww9Pa3qkGnQJcC1F7j" version="16.6.1" type="github">
   <diagram id="3h0F3K4Vw5aKkHfiEKUe" name="Page-1">
-    <mxGraphModel dx="2378" dy="2439" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="2591" dy="2452" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -34,13 +34,13 @@
         <mxCell id="8K4HoMF_kjYYNWV5GB6a-22" value="프로필 사진 &lt;br&gt;용량 체크" style="rhombus;whiteSpace=wrap;html=1;rounded=0;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="-130" y="720" width="90" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Fuwkj4w-Uk0ponaAR_hl-4" value="닉네임 체크&lt;br&gt;성공" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8K4HoMF_kjYYNWV5GB6a-25" target="Fuwkj4w-Uk0ponaAR_hl-3">
+        <mxCell id="Fuwkj4w-Uk0ponaAR_hl-4" value="닉네임 2글자 이상&lt;br&gt;체크&lt;br&gt;성공" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="8K4HoMF_kjYYNWV5GB6a-25" target="Fuwkj4w-Uk0ponaAR_hl-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="8K4HoMF_kjYYNWV5GB6a-25" value="닉네임 2글자 이상 체크" style="rhombus;whiteSpace=wrap;html=1;rounded=0;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="82" y="225" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="8K4HoMF_kjYYNWV5GB6a-26" value="닉네임 체크&amp;nbsp;&lt;br&gt;성공" style="endArrow=classic;html=1;rounded=0;elbow=vertical;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1">
+        <mxCell id="8K4HoMF_kjYYNWV5GB6a-26" value="닉네임 공백 체크&amp;nbsp;&lt;br&gt;성공" style="endArrow=classic;html=1;rounded=0;elbow=vertical;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-33" y="265" as="sourcePoint" />
             <mxPoint x="84" y="265" as="targetPoint" />
@@ -288,19 +288,19 @@
         <mxCell id="qZOSnNFpBRVMl0FgHpjE-36" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 11px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(255 , 255 , 255) ; display: inline ; float: none&quot;&gt;해상도가 너무 낮은 경우&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="285" y="650" width="170" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Fuwkj4w-Uk0ponaAR_hl-6" value="실패" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Fuwkj4w-Uk0ponaAR_hl-3" target="Fuwkj4w-Uk0ponaAR_hl-5">
+        <mxCell id="Fuwkj4w-Uk0ponaAR_hl-6" value="실패" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Fuwkj4w-Uk0ponaAR_hl-3" target="Fuwkj4w-Uk0ponaAR_hl-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Fuwkj4w-Uk0ponaAR_hl-9" value="닉네임 체크 성공" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Fuwkj4w-Uk0ponaAR_hl-3" target="Fuwkj4w-Uk0ponaAR_hl-8">
+        <mxCell id="Fuwkj4w-Uk0ponaAR_hl-9" value="닉네임 최대 글자수&lt;br&gt;체크 성공" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Fuwkj4w-Uk0ponaAR_hl-3" target="Fuwkj4w-Uk0ponaAR_hl-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Fuwkj4w-Uk0ponaAR_hl-3" value="닉네임 최대 글자 수 10자체크" style="rhombus;whiteSpace=wrap;html=1;rounded=0;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="Fuwkj4w-Uk0ponaAR_hl-3" value="닉네임 최대 글자 수 10자체크" style="rhombus;whiteSpace=wrap;html=1;rounded=0;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="270" y="225" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Fuwkj4w-Uk0ponaAR_hl-5" value="닉네임 최대 글자수 10자 이하 에러 출력" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="Fuwkj4w-Uk0ponaAR_hl-5" value="닉네임 최대 글자수 10자 이하 에러 출력" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="262" y="75" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Fuwkj4w-Uk0ponaAR_hl-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+        <mxCell id="Fuwkj4w-Uk0ponaAR_hl-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="115" y="-10" as="targetPoint" />
             <Array as="points">
@@ -310,16 +310,16 @@
             <mxPoint x="320" y="75" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Fuwkj4w-Uk0ponaAR_hl-11" value="특수문자가 들어간 경우&amp;nbsp;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Fuwkj4w-Uk0ponaAR_hl-8" target="Fuwkj4w-Uk0ponaAR_hl-10">
+        <mxCell id="Fuwkj4w-Uk0ponaAR_hl-11" value="특수문자가 들어간 경우&amp;nbsp;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Fuwkj4w-Uk0ponaAR_hl-8" target="Fuwkj4w-Uk0ponaAR_hl-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Fuwkj4w-Uk0ponaAR_hl-8" value="닉네임 형식 체크" style="rhombus;whiteSpace=wrap;html=1;rounded=0;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="Fuwkj4w-Uk0ponaAR_hl-8" value="닉네임 형식 체크" style="rhombus;whiteSpace=wrap;html=1;rounded=0;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="460" y="225" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Fuwkj4w-Uk0ponaAR_hl-10" value="&quot;닉네임은 한글 또는 알파벳만 가능합니다. &quot; 라는 에러&amp;nbsp; &amp;nbsp;출력" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="Fuwkj4w-Uk0ponaAR_hl-10" value="&quot;닉네임은 한글 또는 알파벳만 가능합니다. &quot; 라는 에러&amp;nbsp; &amp;nbsp;출력" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="450" y="75" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Fuwkj4w-Uk0ponaAR_hl-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+        <mxCell id="Fuwkj4w-Uk0ponaAR_hl-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="315" y="-10" as="targetPoint" />
             <Array as="points">
