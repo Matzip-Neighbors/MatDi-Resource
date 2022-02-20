@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-02-20T10:02:41.793Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="A7ElDLMuZLxxIYP4E48S" version="16.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-20T10:08:28.468Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="CwL8J-gEi75FcZHnevW9" version="16.6.1" type="github">
   <diagram id="2e-4wIzPx58CHaIYV5m3" name="Page-1">
-    <mxGraphModel dx="2269" dy="1231" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1560" dy="846" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -59,23 +59,45 @@
         <mxCell id="z6UX9JT35oQlXONaHqC_-17" value="S3로 이미지 업로드" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="780" y="190" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="z6UX9JT35oQlXONaHqC_-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=19;fontColor=#0000FF;" edge="1" parent="1" source="z6UX9JT35oQlXONaHqC_-19" target="z6UX9JT35oQlXONaHqC_-21">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="z6UX9JT35oQlXONaHqC_-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=19;fontColor=#0000FF;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="z6UX9JT35oQlXONaHqC_-19" target="z6UX9JT35oQlXONaHqC_-28">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1160" y="220" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="z6UX9JT35oQlXONaHqC_-19" value="S3에 업로드된 이미지 URL DB에 저장" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="980" y="190" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="z6UX9JT35oQlXONaHqC_-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=19;fontColor=#0000FF;" edge="1" parent="1" source="z6UX9JT35oQlXONaHqC_-21" target="z6UX9JT35oQlXONaHqC_-22">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="z6UX9JT35oQlXONaHqC_-21" value="DB" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;fontSize=19;fontColor=#0000FF;" vertex="1" parent="1">
-          <mxGeometry x="1160" y="190" width="60" height="60" as="geometry" />
+        <mxCell id="z6UX9JT35oQlXONaHqC_-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=19;fontColor=#0000FF;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="z6UX9JT35oQlXONaHqC_-28" target="z6UX9JT35oQlXONaHqC_-22">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1220" y="220" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="z6UX9JT35oQlXONaHqC_-22" value="&lt;font color=&quot;#000000&quot;&gt;&lt;span style=&quot;font-size: 12px&quot;&gt;&lt;b&gt;클라이언트로 이미지 URL Response&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=19;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="1270" y="190" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="z6UX9JT35oQlXONaHqC_-23" value="사진 조회" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="z6UX9JT35oQlXONaHqC_-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;fontColor=#000000;" edge="1" parent="1" source="z6UX9JT35oQlXONaHqC_-23" target="z6UX9JT35oQlXONaHqC_-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="z6UX9JT35oQlXONaHqC_-23" value="다이어리 글 조회" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="610" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="z6UX9JT35oQlXONaHqC_-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;fontColor=#000000;" edge="1" parent="1" source="z6UX9JT35oQlXONaHqC_-24" target="z6UX9JT35oQlXONaHqC_-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="z6UX9JT35oQlXONaHqC_-24" value="서버에 사진 &lt;br&gt;데이터(URL) 조회" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="610" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="z6UX9JT35oQlXONaHqC_-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;fontColor=#000000;" edge="1" parent="1" source="z6UX9JT35oQlXONaHqC_-26" target="z6UX9JT35oQlXONaHqC_-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="z6UX9JT35oQlXONaHqC_-26" value="글에 해당하는 이미지 조회" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;fontSize=12;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="444" y="610" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="z6UX9JT35oQlXONaHqC_-28" value="&lt;font color=&quot;#000000&quot; style=&quot;font-size: 12px&quot;&gt;DB&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;fontSize=19;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1150" y="190" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="z6UX9JT35oQlXONaHqC_-29" value="클라이언트에게 &lt;br&gt;이미지 URL 전송" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="554" y="610" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
