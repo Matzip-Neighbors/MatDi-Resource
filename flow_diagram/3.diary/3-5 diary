@@ -1,1 +1,28 @@
-<mxfile host="app.diagrams.net" modified="2022-02-20T11:25:56.710Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="5CqbbGeoC82BvxXEPvyl" version="16.6.1" type="github"><diagram id="XAZdbgKuF7ZTH7sHQbPN" name="Page-1">7VfJjtswDP0aHaewLduxj17S9tBekqI9C7Fie6pYqaJMkvn6UovXLJOiyxRFgWBCPVEkRfJRGYSzzfGdINvqIy8oQ55THBHOkee5ju/Al0JOBglC3wClqAur1APL+pm2Jy26rwu6GylKzpmst2NwxZuGruQII0Lww1htzdnY65aU9AxYrgg7R7/UhawMGnmzHn9P67JqPbthbHY2pFW2N9lVpOCHAYTnCGeCc2mkzTGjTCWvzYs59/bKbheYoI2850D1LX+uF/nicbGYubhccm/9+cFaeSJsby+MvJCBvbSCrbBUEppnKM5RlCkhSpUMQuKgGBw6aJ6iZIYiF81z9TfJNJigNEKp3o0SlAStWYhvYNmC26GrBKM0U+dSjKLWfGy2QHC1SQB9G1dqhFALgIcqBCUEyo4JMMW9HAfqKkrOlWxOgcE0tgovGwdk1t4eUhLq3CTqurF2HWvB7F7LXGffpjCzvlS2ovvORjYn0ZU6mAuakPSl3gyq0OfcdKc8tS0v6VE3gNwwAFwQd1LwrzTjjAtAGt6AZrquGZtAuy1Z1U0JQNCvPvEtAA8QIU4PVS3pEnDl6gATAzD+RMWaaWZUdVHQBjDB901BVeM6XYSgBpFdbX63oxTMIso3VIoTqBzH4+Q0Xh56SnuOxaohnVvyEjtGys5yzzQQLNl+gHj+BeJN6kALmER2yYWseMkbwuY9OklTr/OB65yr0j1SKU92rJK95OPCGp/K0e28Qlx8L1b0xoVs/JKIksobevhynQRlRNZP4zh+eda986zfQ3g7OHz1UewKLC2VfjdKYr0LR2LN6kkx+1K5V3hwVpafang8afj4vOO75h52fPi7Gj781xoe39nwwWs2PL7Y8JMH1T5jnn3b1CsCDdy2/UVlyxRNkBeV1aMVtM+wb/kCT1RPsfzV+fL3ESb4X7r7Suf/wdLBsv/FrvcG//fg+Xc=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-02-21T11:16:02.386Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="60kYMnoWM246aox0Cnqh" version="16.6.1" type="github">
+  <diagram id="XAZdbgKuF7ZTH7sHQbPN" name="Page-1">
+    <mxGraphModel dx="1240" dy="564" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="hqDziRDRjRR713gSo2fV-1" value="&lt;h1&gt;음식점 링크 기능&lt;/h1&gt;&lt;p&gt;주변맛집다이어리를 볼 때 해당 다이어리에 소개된 음식점이 무슨 음식점인지 링크한다.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="10" y="10" width="200" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="hqDziRDRjRR713gSo2fV-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="hqDziRDRjRR713gSo2fV-2" target="hqDziRDRjRR713gSo2fV-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hqDziRDRjRR713gSo2fV-2" value="다이어리 디테일 화면" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="30" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hqDziRDRjRR713gSo2fV-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="hqDziRDRjRR713gSo2fV-3" target="hqDziRDRjRR713gSo2fV-5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hqDziRDRjRR713gSo2fV-3" value="맛집 사진, 맛집 이름, 맛집 설명 클릭" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="230" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hqDziRDRjRR713gSo2fV-5" value="맛집 디테일 &lt;br&gt;페이지로 이동" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="430" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
