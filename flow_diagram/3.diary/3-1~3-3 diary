@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-22T15:04:43.260Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="a04crYVhxOvelrHVL88C" version="16.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-22T15:11:49.612Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="v7yNuFgC4IKQmBbtN39W" version="16.6.2" type="github">
   <diagram id="f-wdtSK4ejGGPJ20R3xY" name="Page-1">
     <mxGraphModel dx="1422" dy="2452" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -577,19 +577,19 @@
         <mxCell id="-wluP-09u7BNVnPkicfn-25" value="&lt;b&gt;좋아요 -1&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="1660" y="25" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-wluP-09u7BNVnPkicfn-31" value="&lt;b&gt;DB에&lt;br&gt;저장&lt;/b&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;fontSize=14;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+        <mxCell id="-wluP-09u7BNVnPkicfn-31" value="&lt;b&gt;DB에&lt;br&gt;저장&lt;/b&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;fontSize=14;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="1580" y="-115" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-wluP-09u7BNVnPkicfn-33" value="&lt;b&gt;DB에&lt;br&gt;저장&lt;/b&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;fontSize=14;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="1820" y="25" width="60" height="60" as="geometry" />
+        <mxCell id="-wluP-09u7BNVnPkicfn-33" value="&lt;b&gt;DB에&lt;br&gt;저장&lt;/b&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;fontSize=14;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="1830" y="25" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="WwvOsJLF6vcp4jV1B40V-6" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="WwvOsJLF6vcp4jV1B40V-6" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="2269.5" y="740" as="sourcePoint" />
             <mxPoint x="2270" y="700" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WwvOsJLF6vcp4jV1B40V-7" value="&lt;font size=&quot;1&quot; color=&quot;#ff0a0a&quot;&gt;&lt;b style=&quot;font-size: 14px&quot;&gt;실패 시 다이어리 수정 화면으로 이동&lt;/b&gt;&lt;/font&gt;" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="KR35UKa0iR5ksp2mOAbA-64">
+        <mxCell id="WwvOsJLF6vcp4jV1B40V-7" value="&lt;font size=&quot;1&quot; color=&quot;#ff0a0a&quot;&gt;&lt;b style=&quot;font-size: 14px&quot;&gt;실패 시 다이어리 수정 화면으로 이동&lt;/b&gt;&lt;/font&gt;" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" target="KR35UKa0iR5ksp2mOAbA-64" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="2272" y="700" as="sourcePoint" />
             <mxPoint x="1460" y="590" as="targetPoint" />
