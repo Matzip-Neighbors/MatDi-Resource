@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-23T13:14:28.350Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="14LMduCUd_BYMN0L3aTq" version="16.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-23T13:14:44.509Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="PzVA09CcadpDoKGs_nUj" version="16.6.2" type="github">
   <diagram id="2e-4wIzPx58CHaIYV5m3" name="Page-1">
     <mxGraphModel dx="1422" dy="798" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -97,7 +97,7 @@
           <mxGeometry x="2038" y="310" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="z6UX9JT35oQlXONaHqC_-29" value="클라이언트에게 &lt;br&gt;이미지 URL 전송" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="966" y="765" width="120" height="60" as="geometry" />
+          <mxGeometry x="1120" y="765" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="z6UX9JT35oQlXONaHqC_-32" value="&lt;h1&gt;사진 리스트 변경&lt;/h1&gt;&lt;p&gt;다이어리글 조회 시 이미지를 조회하는 프로세스입니다.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="26" y="990" width="190" height="120" as="geometry" />
