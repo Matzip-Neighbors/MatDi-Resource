@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-02-23T12:13:01.217Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="oAGx2nyRp5EkuA21rVav" version="16.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-23T12:14:32.091Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="xGc5iiohibkhlX2bWwny" version="16.6.2" type="github">
   <diagram id="f-wdtSK4ejGGPJ20R3xY" name="Page-1">
-    <mxGraphModel dx="2080" dy="2782" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="1387" dy="2406" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -635,7 +635,7 @@
         <mxCell id="FXpn2HotJ9Xoxd2Mzfka-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=19;fontColor=#0000FF;startArrow=none;startFill=0;strokeColor=default;" edge="1" parent="1" source="FXpn2HotJ9Xoxd2Mzfka-43" target="bGrC2pud4FnmQ-Y75pje-43">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FXpn2HotJ9Xoxd2Mzfka-43" value="&lt;font style=&quot;font-size: 13px&quot;&gt;DB에서 &lt;br&gt;해당&lt;br&gt;댓글&lt;br&gt;삭제&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;fontSize=14;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="FXpn2HotJ9Xoxd2Mzfka-43" value="&lt;font style=&quot;font-size: 12px&quot;&gt;DB에 해당&lt;br&gt;댓글 삭제&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;fontSize=14;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="2054" y="2031" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FXpn2HotJ9Xoxd2Mzfka-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;fontColor=#0000FF;startArrow=none;startFill=0;strokeColor=default;" edge="1" parent="1" source="FXpn2HotJ9Xoxd2Mzfka-49" target="FXpn2HotJ9Xoxd2Mzfka-51">
@@ -652,7 +652,7 @@
             <mxPoint x="685" y="1806" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FXpn2HotJ9Xoxd2Mzfka-51" value="DB에서&lt;br&gt;해당 댓글&lt;br&gt;권한 체크" style="rhombus;whiteSpace=wrap;html=1;fontSize=12;fontColor=default;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="FXpn2HotJ9Xoxd2Mzfka-51" value="DB에 해당 &lt;br&gt;댓글 조회" style="rhombus;whiteSpace=wrap;html=1;fontSize=12;fontColor=default;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="640" y="1616" width="90" height="90" as="geometry" />
         </mxCell>
         <mxCell id="FXpn2HotJ9Xoxd2Mzfka-57" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=19;fontColor=#FF0800;startArrow=none;startFill=0;strokeColor=default;" edge="1" parent="1" source="FXpn2HotJ9Xoxd2Mzfka-53" target="bGrC2pud4FnmQ-Y75pje-3">
