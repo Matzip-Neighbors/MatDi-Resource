@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-02-23T09:40:44.350Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="0Rw5t1JCmiHavwTEwSTa" version="16.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-23T10:40:54.969Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="PWt7gRCJjN3OGNU1sfxF" version="16.6.2" type="github">
   <diagram id="f-wdtSK4ejGGPJ20R3xY" name="Page-1">
-    <mxGraphModel dx="2080" dy="2782" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="1468" dy="2450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -370,17 +370,14 @@
         <mxCell id="bGrC2pud4FnmQ-Y75pje-39" value="&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;&quot;삭제하시겠습니까?&quot; 메시지 출력&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="1222" y="1920" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="bGrC2pud4FnmQ-Y75pje-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" parent="1" source="bGrC2pud4FnmQ-Y75pje-41" target="bGrC2pud4FnmQ-Y75pje-43" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="pJ02MIhuigaMSTd4m_t4-5" value="&lt;b&gt;&lt;font color=&quot;#ff1900&quot; style=&quot;font-size: 14px&quot;&gt;실패&lt;/font&gt;&lt;/b&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#030000;" parent="1" source="bGrC2pud4FnmQ-Y75pje-41" target="zZZYuyWVAnopWDQmzacc-20" edge="1">
+        <mxCell id="FXpn2HotJ9Xoxd2Mzfka-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=19;fontColor=#0000FF;startArrow=none;startFill=0;strokeColor=default;" edge="1" parent="1" source="bGrC2pud4FnmQ-Y75pje-41" target="FXpn2HotJ9Xoxd2Mzfka-31">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="bGrC2pud4FnmQ-Y75pje-41" value="&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;YES 클릭&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="1430" y="1920" width="120" height="60" as="geometry" />
+          <mxGeometry x="1400" y="1920" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bGrC2pud4FnmQ-Y75pje-43" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;삭제 완료&lt;/font&gt;&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=2;rounded=1;arcSize=11;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="1650" y="1920" width="120" height="60" as="geometry" />
+          <mxGeometry x="2160" y="1920" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bGrC2pud4FnmQ-Y75pje-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" parent="1" source="bGrC2pud4FnmQ-Y75pje-45" target="bGrC2pud4FnmQ-Y75pje-48" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -492,8 +489,8 @@
         <mxCell id="zZZYuyWVAnopWDQmzacc-18" value="&lt;b&gt;&quot;비속어는 포함할 수 없습니다.&quot; 메시지&lt;br&gt;출력&lt;/b&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;fontSize=14;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="1460" y="1790" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="zZZYuyWVAnopWDQmzacc-20" value="&lt;b&gt;&quot;삭제에 실패하였습니다.&quot;&amp;nbsp;&lt;br&gt;메시지 출력&lt;br&gt;&lt;/b&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;fontSize=14;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="1440" y="2060" width="100" height="60" as="geometry" />
+        <mxCell id="zZZYuyWVAnopWDQmzacc-20" value="&lt;b&gt;&quot;해당 게시글이 없습니다.&quot;&amp;nbsp;&lt;br&gt;메시지 출력&lt;br&gt;&lt;/b&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;fontSize=14;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="1740" y="2060" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zZZYuyWVAnopWDQmzacc-28" value="&lt;b&gt;&quot;비속어는 포함할 수 없습니다.&quot; 메시지 &lt;br&gt;출력&lt;/b&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;fontSize=14;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="1500" y="1510" width="100" height="60" as="geometry" />
@@ -640,6 +637,39 @@
         </mxCell>
         <mxCell id="FXpn2HotJ9Xoxd2Mzfka-22" value="&lt;b&gt;서버에서 DB에 &lt;br&gt;다이어리 데이터 조회&lt;br&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="441" y="740" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FXpn2HotJ9Xoxd2Mzfka-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=19;fontColor=#FF0800;startArrow=none;startFill=0;strokeColor=default;" edge="1" parent="1" source="FXpn2HotJ9Xoxd2Mzfka-31" target="FXpn2HotJ9Xoxd2Mzfka-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FXpn2HotJ9Xoxd2Mzfka-31" value="&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;서버에 삭제할 &lt;br&gt;게시글 번호 전송&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1575" y="1920" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FXpn2HotJ9Xoxd2Mzfka-38" value="&lt;b&gt;&lt;font color=&quot;#ff0800&quot;&gt;실패&lt;/font&gt;&lt;/b&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=19;fontColor=#0000FF;startArrow=none;startFill=0;strokeColor=default;" edge="1" parent="1" source="FXpn2HotJ9Xoxd2Mzfka-33" target="FXpn2HotJ9Xoxd2Mzfka-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FXpn2HotJ9Xoxd2Mzfka-44" value="&lt;font color=&quot;#0000ff&quot;&gt;&lt;b&gt;완료&lt;/b&gt;&lt;/font&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=19;fontColor=#FF0800;startArrow=none;startFill=0;strokeColor=default;" edge="1" parent="1" source="FXpn2HotJ9Xoxd2Mzfka-33" target="FXpn2HotJ9Xoxd2Mzfka-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FXpn2HotJ9Xoxd2Mzfka-33" value="게시글 삭제&lt;br&gt;권한 체크" style="rhombus;whiteSpace=wrap;html=1;fontSize=12;fontColor=default;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1895" y="1905" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="FXpn2HotJ9Xoxd2Mzfka-40" value="&lt;font style=&quot;font-size: 19px&quot;&gt;&lt;b&gt;실패&lt;/b&gt;&lt;/font&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;fontColor=#FF0800;startArrow=none;startFill=0;strokeColor=default;" edge="1" parent="1" source="FXpn2HotJ9Xoxd2Mzfka-35" target="zZZYuyWVAnopWDQmzacc-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FXpn2HotJ9Xoxd2Mzfka-42" value="&lt;b&gt;&lt;font color=&quot;#0000ff&quot;&gt;완료&lt;/font&gt;&lt;/b&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=19;fontColor=#FF0800;startArrow=none;startFill=0;strokeColor=default;" edge="1" parent="1" source="FXpn2HotJ9Xoxd2Mzfka-35" target="FXpn2HotJ9Xoxd2Mzfka-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FXpn2HotJ9Xoxd2Mzfka-35" value="삭제할 게시글 DB에 존재 &lt;br&gt;여부 체크" style="rhombus;whiteSpace=wrap;html=1;fontSize=12;fontColor=default;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1745" y="1905" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="FXpn2HotJ9Xoxd2Mzfka-37" value="&lt;b style=&quot;font-size: 13px&quot;&gt;&quot;게시글 삭제 권한이 없습니다.&quot;&amp;nbsp;&lt;br&gt;메시지 출력&lt;br&gt;&lt;/b&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;fontSize=14;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="1890" y="2060" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FXpn2HotJ9Xoxd2Mzfka-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=19;fontColor=#0000FF;startArrow=none;startFill=0;strokeColor=default;" edge="1" parent="1" source="FXpn2HotJ9Xoxd2Mzfka-43" target="bGrC2pud4FnmQ-Y75pje-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FXpn2HotJ9Xoxd2Mzfka-43" value="&lt;font style=&quot;font-size: 13px&quot;&gt;DB에서 &lt;br&gt;해당&lt;br&gt;게시글 &lt;br&gt;삭제&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;fontSize=14;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="2050" y="1920" width="60" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
