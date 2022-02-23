@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-02-18T13:08:17.544Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.87 Safari/537.36" etag="Igws__NWworrcRTh-SJn" version="16.5.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-23T14:10:22.845Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="A68lpW42jnKmBI3umscQ" version="16.6.2" type="github">
   <diagram id="UcXU_nPncYs_1nkHUFXN" name="Page-1">
-    <mxGraphModel dx="1550" dy="575" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2066" dy="769" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -48,6 +48,10 @@
         <mxCell id="DO30fpSO6sZjtLIamvl7-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="DO30fpSO6sZjtLIamvl7-4" target="DO30fpSO6sZjtLIamvl7-103" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="620" y="447.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="560" y="383" />
+              <mxPoint x="560" y="448" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="DO30fpSO6sZjtLIamvl7-4" value="이메일 &lt;br&gt;형식 체크" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" parent="1" vertex="1">
@@ -83,7 +87,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="DO30fpSO6sZjtLIamvl7-16" value="비밀번호 자리수&lt;br&gt;체크" style="rhombus;whiteSpace=wrap;html=1;rounded=0;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="410" y="462.5" width="70" height="70" as="geometry" />
+          <mxGeometry x="420" y="462.5" width="70" height="70" as="geometry" />
         </mxCell>
         <mxCell id="DO30fpSO6sZjtLIamvl7-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="DO30fpSO6sZjtLIamvl7-45" target="DO30fpSO6sZjtLIamvl7-98" edge="1">
           <mxGeometry relative="1" as="geometry">
