@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-23T13:49:40.814Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="Qs0ssn_jAXS_Y5db50JT" version="16.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-23T14:53:36.533Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="e_pqtNQjdN_DlldCXVwF" version="16.6.2" type="github">
   <diagram id="XAZdbgKuF7ZTH7sHQbPN" name="Page-1">
     <mxGraphModel dx="1422" dy="798" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -10,19 +10,19 @@
         <mxCell id="hqDziRDRjRR713gSo2fV-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="hqDziRDRjRR713gSo2fV-2" target="hqDziRDRjRR713gSo2fV-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="hqDziRDRjRR713gSo2fV-2" value="다이어리 디테일 화면" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="hqDziRDRjRR713gSo2fV-2" value="다이어리 디테일 화면" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="20" y="300" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="mCvVIOb9OzAO8pl-Z8dT-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="hqDziRDRjRR713gSo2fV-3" target="mCvVIOb9OzAO8pl-Z8dT-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="hqDziRDRjRR713gSo2fV-3" value="맛집 사진, 맛집 이름, 맛집 설명 클릭" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="hqDziRDRjRR713gSo2fV-3" value="맛집 사진, 맛집 이름, 맛집 설명 클릭" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="240" y="300" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="6i6vWVqf2TR7-z67PuKF-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hqDziRDRjRR713gSo2fV-5" target="6i6vWVqf2TR7-z67PuKF-2">
+        <mxCell id="6i6vWVqf2TR7-z67PuKF-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="hqDziRDRjRR713gSo2fV-5" target="6i6vWVqf2TR7-z67PuKF-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="hqDziRDRjRR713gSo2fV-5" value="해당 맛집 디테일 &lt;br&gt;페이지로 이동" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="hqDziRDRjRR713gSo2fV-5" value="해당 맛집 디테일 &lt;br&gt;페이지로 이동" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="717" y="300" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="mCvVIOb9OzAO8pl-Z8dT-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="mCvVIOb9OzAO8pl-Z8dT-1" target="mCvVIOb9OzAO8pl-Z8dT-3" edge="1">
@@ -111,14 +111,14 @@
         <mxCell id="T2EWooPnmVLZb2LzGo6O-15" value="성공 시 맛집 데이터 썸네일 가져오기&lt;br&gt;&lt;br&gt;맛집 디테일 페이지로 이동이 아닌 DB 조회 결과를 Response로 전송&amp;nbsp;&lt;br&gt;=&amp;gt; 클라이언트에서 렌더링" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="647" y="910" width="300" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="6i6vWVqf2TR7-z67PuKF-2" value="맛집 데이터 썸네일 가져오기" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="6i6vWVqf2TR7-z67PuKF-2" value="맛집 데이터 썸네일 가져오기" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="917" y="300" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="6i6vWVqf2TR7-z67PuKF-4" value="해시태그를 클릭한다면 해시태그에 대한 검색결과가 들어가야 함" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="6i6vWVqf2TR7-z67PuKF-4" value="해시태그를 클릭한다면 해시태그에 대한 검색결과가 들어가야 함" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="130" y="420" width="360" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="6i6vWVqf2TR7-z67PuKF-5" value="크롤링 해올 때 이미지 url을 가져올 수 있는지 확인해야 함" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="842" y="380" width="320" height="20" as="geometry" />
+        <mxCell id="6i6vWVqf2TR7-z67PuKF-5" value="크롤링 해올 때 이미지 url을 가져올 수 있는지 확인해야 함" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="800" y="380" width="320" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
