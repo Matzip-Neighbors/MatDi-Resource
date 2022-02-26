@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-26T01:21:50.936Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="ioAbgo12dEMun2eCvLLZ" version="16.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-26T01:22:12.648Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="o_aPKjpVIBQ3-fQiOmoZ" version="16.6.4" type="github">
   <diagram id="f-wdtSK4ejGGPJ20R3xY" name="Page-1">
     <mxGraphModel dx="1783" dy="2621" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -429,7 +429,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="zZZYuyWVAnopWDQmzacc-4" value="&lt;b&gt;해시태그 클릭 및&lt;br&gt;서버에 &lt;br&gt;해시태그명 전송&lt;br&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="1220" y="270" width="120" height="60" as="geometry" />
+          <mxGeometry x="1227" y="270" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FXpn2HotJ9Xoxd2Mzfka-69" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=19;fontColor=#FF0800;startArrow=none;startFill=0;strokeColor=default;" parent="1" source="pW3Jw-Swu4G1BIFiUTG5-18" target="FXpn2HotJ9Xoxd2Mzfka-68" edge="1">
           <mxGeometry relative="1" as="geometry" />
