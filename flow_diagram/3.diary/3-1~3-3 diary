@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-26T01:22:12.648Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="o_aPKjpVIBQ3-fQiOmoZ" version="16.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-26T01:23:54.458Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="pTpwTQBXHK8Jy70LUnS_" version="16.6.4" type="github">
   <diagram id="f-wdtSK4ejGGPJ20R3xY" name="Page-1">
     <mxGraphModel dx="1783" dy="2621" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -1190,7 +1190,7 @@
         <mxCell id="ghABfyIWPbtCpfo8-622-19" value="클라이언트에게&lt;br&gt;해시태그에 해당하는 맛집이 없습니다 전송" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="1515" y="150" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ghABfyIWPbtCpfo8-622-21" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="ghABfyIWPbtCpfo8-622-21" value="해시태그에 해당하는 맛집이 없습니다 에러 출력" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="1370" y="150" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ghABfyIWPbtCpfo8-622-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=19;fontColor=#FF0800;" edge="1" parent="1" source="ghABfyIWPbtCpfo8-622-23" target="KR35UKa0iR5ksp2mOAbA-9">
