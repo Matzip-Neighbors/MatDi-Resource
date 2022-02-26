@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-02-26T01:23:54.458Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="pTpwTQBXHK8Jy70LUnS_" version="16.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-26T01:24:56.512Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="FcC9ycPYk4wvrNUSKOp0" version="16.6.4" type="github">
   <diagram id="f-wdtSK4ejGGPJ20R3xY" name="Page-1">
-    <mxGraphModel dx="1783" dy="2621" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="832" dy="2105" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -484,9 +484,6 @@
         </mxCell>
         <mxCell id="-wluP-09u7BNVnPkicfn-5" value="&lt;b&gt;유저 정보 및 &lt;br&gt;해당 다이어리 아이디&lt;br&gt;확인 후 서버로 전송&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="1313" y="25" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="-wluP-09u7BNVnPkicfn-14" value="&lt;b&gt;로그인 페이지로 이동&lt;/b&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="1436" y="-120" width="130" height="70" as="geometry" />
         </mxCell>
         <mxCell id="-wluP-09u7BNVnPkicfn-19" value="&lt;font style=&quot;font-size: 19px&quot; color=&quot;#ff0800&quot;&gt;&lt;b&gt;실패&lt;/b&gt;&lt;/font&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="JvpL6jLMU-VbIeLLWWbJ-111" edge="1" target="ghABfyIWPbtCpfo8-622-1">
           <mxGeometry relative="1" as="geometry">
@@ -1140,10 +1137,12 @@
         <mxCell id="JvpL6jLMU-VbIeLLWWbJ-111" value="&lt;font color=&quot;#000000&quot;&gt;&lt;b&gt;&lt;span style=&quot;font-size: 12px&quot;&gt;로그인 여부&lt;br&gt;&lt;/span&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;체크&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;fontSize=19;fontColor=#0000FF;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="1616.5" y="10" width="89" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="ghABfyIWPbtCpfo8-622-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ghABfyIWPbtCpfo8-622-1" target="-wluP-09u7BNVnPkicfn-14">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="ghABfyIWPbtCpfo8-622-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ghABfyIWPbtCpfo8-622-1" target="ghABfyIWPbtCpfo8-622-27">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1566" y="-85" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="ghABfyIWPbtCpfo8-622-1" value="클라이언트에게&lt;br&gt;좋아요 클릭 시 로그인 필요 전송" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="ghABfyIWPbtCpfo8-622-1" value="&lt;b&gt;클라이언트에게&lt;br&gt;좋아요 클릭 시 로그인 필요 전송&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="1601" y="-115" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ghABfyIWPbtCpfo8-622-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ghABfyIWPbtCpfo8-622-7" target="FXpn2HotJ9Xoxd2Mzfka-1">
@@ -1198,6 +1197,9 @@
         </mxCell>
         <mxCell id="ghABfyIWPbtCpfo8-622-23" value="&lt;b&gt;클라이언트에게&lt;br&gt;해시태그에 해당하는 맛집 데이터 전송&lt;br&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1697.5" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ghABfyIWPbtCpfo8-622-27" value="&lt;font style=&quot;font-size: 12px&quot;&gt;&lt;b&gt;로그인 페이지로 Redirect&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=19;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="1445" y="-115" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
