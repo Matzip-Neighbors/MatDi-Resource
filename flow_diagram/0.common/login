@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-25T13:32:57.963Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="SqWthKrTELlwHMhBKPU3" version="16.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-27T12:56:22.894Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.109 Safari/537.36" etag="C9cGl0hLk7yTeN4WmRUp" version="16.6.4" type="github">
   <diagram id="UcXU_nPncYs_1nkHUFXN" name="Page-1">
     <mxGraphModel dx="2066" dy="769" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -167,6 +167,9 @@
         <mxCell id="DO30fpSO6sZjtLIamvl7-45" value="비밀번호 자릿수&lt;br&gt;6자리 이상 에러 출력" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="397.5" y="620" width="115" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="11c27CZoFoAQoJgazLJT-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DO30fpSO6sZjtLIamvl7-47" target="11c27CZoFoAQoJgazLJT-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="DO30fpSO6sZjtLIamvl7-47" value="클라이언트로 &lt;br&gt;로그인 성공 코드 및 &lt;br&gt;토큰 반환" style="whiteSpace=wrap;html=1;strokeWidth=2;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="1310" y="417.5" width="120" height="60" as="geometry" />
         </mxCell>
@@ -290,11 +293,28 @@
         <mxCell id="DO30fpSO6sZjtLIamvl7-103" value="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 12px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(248, 249, 250); display: inline; float: none;&quot;&gt;로그인 버튼 클릭&lt;/span&gt;" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;size=0.23;arcSize=10;flipV=1;labelPosition=center;align=center;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="630" y="417.5" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="cZs4-HTx-OV_YmvdtWbk-1" value="프론트에서 어떻게 진행되는지 부분이 미흡" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="940" y="1385" width="220" height="30" as="geometry" />
+        <mxCell id="11c27CZoFoAQoJgazLJT-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="11c27CZoFoAQoJgazLJT-1" target="11c27CZoFoAQoJgazLJT-3">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="cZs4-HTx-OV_YmvdtWbk-2" value="프론트에서 어떻게 진행되는지 부분이 미흡" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1434" y="420" width="220" height="30" as="geometry" />
+        <mxCell id="11c27CZoFoAQoJgazLJT-1" value="메인페이지로 이동" style="whiteSpace=wrap;html=1;strokeWidth=2;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="1510" y="417.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="11c27CZoFoAQoJgazLJT-3" value="종료" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=2;rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1710" y="417.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="11c27CZoFoAQoJgazLJT-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="11c27CZoFoAQoJgazLJT-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="912.5" y="1400" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="11c27CZoFoAQoJgazLJT-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="11c27CZoFoAQoJgazLJT-7" target="11c27CZoFoAQoJgazLJT-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="11c27CZoFoAQoJgazLJT-7" value="메인페이지로 이동" style="whiteSpace=wrap;html=1;strokeWidth=2;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="992.5" y="1370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="11c27CZoFoAQoJgazLJT-8" value="종료" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=2;rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1192.5" y="1370" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
