@@ -1,23 +1,65 @@
-<mxfile host="app.diagrams.net" modified="2022-02-21T13:04:33.814Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="wC7xVy01UUshNzYGPVxH" version="16.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-27T10:58:17.051Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="rxoJ12nwE3sDFs052p9T" version="16.6.4" type="github">
   <diagram id="e3utuoUttWE5hWCgFVmQ" name="Page-1">
-    <mxGraphModel dx="1248" dy="677" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1209" dy="785" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="OWfh2nPcR0B7EeAQQbxx-1" value="&lt;h1&gt;책갈피 조회 기능&lt;/h1&gt;&lt;p&gt;다이어리 리스트 혹은 디테일 페이지에서 책갈피&amp;nbsp;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="60" y="60" width="200" height="120" as="geometry" />
+        <mxCell id="OWfh2nPcR0B7EeAQQbxx-1" value="&lt;h1&gt;책갈피 조회 기능&lt;/h1&gt;&lt;p&gt;다이어리 리스트 혹은 디테일 페이지에서 책갈피&amp;nbsp;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="10" y="20" width="200" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="OWfh2nPcR0B7EeAQQbxx-2" value="&lt;h1&gt;책갈피 추가 기능&lt;/h1&gt;&lt;p&gt;다이어리 리스트 혹은 디테일&amp;nbsp;&lt;span&gt;페이지에서 책갈피 추가&lt;/span&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="60" y="510" width="200" height="120" as="geometry" />
+        <mxCell id="OWfh2nPcR0B7EeAQQbxx-2" value="&lt;h1&gt;책갈피 추가 및 해제 기능&lt;/h1&gt;&lt;p&gt;다이어리 리스트 혹은 디테일&amp;nbsp;&lt;span&gt;페이지에서 책갈피 추가&lt;/span&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="10" y="500" width="200" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="OWfh2nPcR0B7EeAQQbxx-3" value="&lt;h1&gt;책갈피 해제 기능&lt;/h1&gt;&lt;p&gt;다이어리 리스트 혹은 디테일&amp;nbsp;페이지에서 책갈피 해제&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="60" y="940" width="200" height="120" as="geometry" />
+        <mxCell id="OWfh2nPcR0B7EeAQQbxx-3" value="&lt;h1&gt;책갈피 해제 기능&lt;/h1&gt;&lt;p&gt;다이어리 리스트 혹은 디테일&amp;nbsp;페이지에서 책갈피 해제&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="80" y="1260" width="200" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="OWfh2nPcR0B7EeAQQbxx-4" value="다이어리 리스트, &lt;br&gt;디테일 페이지에서 &lt;br&gt;책갈피 버튼 클릭" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="60" y="700" width="120" height="60" as="geometry" />
+        <mxCell id="VyRUD487mi0YjnDleR-6-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OWfh2nPcR0B7EeAQQbxx-4" target="VyRUD487mi0YjnDleR-6-15">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="OWfh2nPcR0B7EeAQQbxx-5" value="다이어리 리스트, &lt;br&gt;디테일 페이지에서 &lt;br&gt;책갈피 버튼 클릭" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="60" y="1129" width="120" height="60" as="geometry" />
+        <mxCell id="OWfh2nPcR0B7EeAQQbxx-4" value="다이어리 리스트, &lt;br&gt;디테일 페이지에서 &lt;br&gt;책갈피 버튼 클릭" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="60" y="850" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OWfh2nPcR0B7EeAQQbxx-5" value="다이어리 리스트, &lt;br&gt;디테일 페이지에서 &lt;br&gt;책갈피 버튼 클릭" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="90" y="1400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VyRUD487mi0YjnDleR-6-20" value="&lt;font style=&quot;font-size: 16px&quot; color=&quot;#ff3908&quot;&gt;&lt;b&gt;False&lt;/b&gt;&lt;/font&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VyRUD487mi0YjnDleR-6-15" target="VyRUD487mi0YjnDleR-6-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VyRUD487mi0YjnDleR-6-22" value="&lt;b&gt;&lt;font color=&quot;#0f1fff&quot;&gt;True&lt;/font&gt;&lt;/b&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;fontColor=#FF3908;" edge="1" parent="1" source="VyRUD487mi0YjnDleR-6-15" target="VyRUD487mi0YjnDleR-6-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VyRUD487mi0YjnDleR-6-15" value="&lt;span&gt;책갈피 체크 여부 판단&lt;/span&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="250" y="830" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="VyRUD487mi0YjnDleR-6-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;fontColor=#0F1FFF;" edge="1" parent="1" source="VyRUD487mi0YjnDleR-6-19" target="VyRUD487mi0YjnDleR-6-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VyRUD487mi0YjnDleR-6-19" value="책갈피 해제" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="240" y="700" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VyRUD487mi0YjnDleR-6-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;fontColor=#000000;" edge="1" parent="1" source="VyRUD487mi0YjnDleR-6-21" target="VyRUD487mi0YjnDleR-6-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VyRUD487mi0YjnDleR-6-21" value="책갈피 체크" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="450" y="850" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VyRUD487mi0YjnDleR-6-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;fontColor=#000000;" edge="1" parent="1" source="VyRUD487mi0YjnDleR-6-23" target="VyRUD487mi0YjnDleR-6-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VyRUD487mi0YjnDleR-6-23" value="&lt;font style=&quot;font-size: 12px&quot; color=&quot;#000000&quot;&gt;DB에&lt;br&gt;저장&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;fontSize=16;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="270" y="600" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VyRUD487mi0YjnDleR-6-25" value="200 코드 반환 후에 책갈피 아이콘 변경" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="240" y="510" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VyRUD487mi0YjnDleR-6-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;fontColor=#000000;" edge="1" parent="1" source="VyRUD487mi0YjnDleR-6-27" target="VyRUD487mi0YjnDleR-6-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VyRUD487mi0YjnDleR-6-27" value="&lt;font style=&quot;font-size: 12px&quot; color=&quot;#000000&quot;&gt;DB에&lt;br&gt;저장&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;fontSize=16;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="660" y="850" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VyRUD487mi0YjnDleR-6-28" value="200 코드 반환 후에 책갈피 아이콘 변경" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="800" y="850" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
