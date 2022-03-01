@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2022-03-01T13:24:27.615Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.109 Safari/537.36" etag="DvX5ikck4mn7hdQ4uzVG" version="16.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-01T13:25:50.163Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.109 Safari/537.36" etag="7yRY3UfFqN0f4Ow-Iaq8" version="16.6.4" type="github">
   <diagram id="TXl82KZ7QQp5yHmLzprc" name="Page-1">
     <mxGraphModel dx="1425" dy="530" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="4DBMxj1UBQr-_48I6VJZ-1" value="2-7A.맛집추가기능" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=1;startSize=20;horizontalStack=0;strokeWidth=1;strokeColor=#BABABA;swimlaneLine=1;shadow=0;sketch=0;" vertex="1" parent="1">
-          <mxGeometry x="40" y="40" width="1940" height="490" as="geometry" />
+          <mxGeometry x="40" y="40" width="1860" height="490" as="geometry" />
         </mxCell>
         <mxCell id="4DBMxj1UBQr-_48I6VJZ-28" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;strokeWidth=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="4DBMxj1UBQr-_48I6VJZ-1" source="4DBMxj1UBQr-_48I6VJZ-25" target="4DBMxj1UBQr-_48I6VJZ-27">
           <mxGeometry x="0.3333" relative="1" as="geometry">
@@ -28,7 +28,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4DBMxj1UBQr-_48I6VJZ-2" value="Client" style="swimlane;startSize=20;horizontal=0;strokeWidth=1;sketch=0;glass=0;fillColor=#dae8fc;strokeColor=#6c8ebf;swimlaneLine=1;shadow=0;" vertex="1" parent="4DBMxj1UBQr-_48I6VJZ-1">
-          <mxGeometry y="20" width="1940" height="120" as="geometry" />
+          <mxGeometry y="20" width="1860" height="120" as="geometry" />
         </mxCell>
         <mxCell id="4DBMxj1UBQr-_48I6VJZ-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="4DBMxj1UBQr-_48I6VJZ-2" source="4DBMxj1UBQr-_48I6VJZ-6" target="4DBMxj1UBQr-_48I6VJZ-22">
           <mxGeometry relative="1" as="geometry">
@@ -62,7 +62,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4DBMxj1UBQr-_48I6VJZ-3" value="Web" style="swimlane;startSize=20;horizontal=0;strokeWidth=1;strokeColor=#82b366;fillColor=#d5e8d4;swimlaneLine=1;shadow=0;sketch=0;" vertex="1" parent="4DBMxj1UBQr-_48I6VJZ-1">
-          <mxGeometry y="140" width="1940" height="110" as="geometry" />
+          <mxGeometry y="140" width="1860" height="110" as="geometry" />
         </mxCell>
         <mxCell id="4DBMxj1UBQr-_48I6VJZ-9" value="맛집 등록페이지로 이동" style="whiteSpace=wrap;html=1;strokeWidth=1;rounded=1;strokeColor=#BABABA;swimlaneLine=1;shadow=0;sketch=0;" vertex="1" parent="4DBMxj1UBQr-_48I6VJZ-3">
           <mxGeometry x="320" y="35" width="100" height="50" as="geometry" />
@@ -103,7 +103,7 @@
           <mxGeometry x="1770" y="45" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4DBMxj1UBQr-_48I6VJZ-4" value="Application Server" style="swimlane;startSize=20;horizontal=0;strokeWidth=1;strokeColor=#d6b656;fillColor=#fff2cc;swimlaneLine=1;shadow=0;sketch=0;" vertex="1" parent="4DBMxj1UBQr-_48I6VJZ-1">
-          <mxGeometry y="250" width="1940" height="120" as="geometry" />
+          <mxGeometry y="250" width="1860" height="120" as="geometry" />
         </mxCell>
         <mxCell id="4DBMxj1UBQr-_48I6VJZ-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;strokeWidth=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="4DBMxj1UBQr-_48I6VJZ-4" source="4DBMxj1UBQr-_48I6VJZ-37" target="4DBMxj1UBQr-_48I6VJZ-51">
           <mxGeometry relative="1" as="geometry" />
@@ -178,7 +178,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="4DBMxj1UBQr-_48I6VJZ-47" value="Database" style="swimlane;startSize=20;horizontal=0;strokeWidth=1;strokeColor=#b85450;fillColor=#f8cecc;swimlaneLine=1;shadow=0;sketch=0;" vertex="1" parent="4DBMxj1UBQr-_48I6VJZ-1">
-          <mxGeometry y="370" width="1940" height="120" as="geometry" />
+          <mxGeometry y="370" width="1860" height="120" as="geometry" />
         </mxCell>
         <mxCell id="4DBMxj1UBQr-_48I6VJZ-49" value="loc 테이블에&lt;br&gt;저장" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;rounded=1;fontSize=10;strokeColor=#BABABA;swimlaneLine=1;shadow=0;sketch=0;" vertex="1" parent="4DBMxj1UBQr-_48I6VJZ-47">
           <mxGeometry x="1270" y="40" width="60" height="60" as="geometry" />
