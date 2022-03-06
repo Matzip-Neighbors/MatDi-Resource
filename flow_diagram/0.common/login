@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-03-06T11:42:22.458Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="qms6wbp3z6P7LZrAnC30" version="16.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-06T11:42:52.896Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="-huBrx2gnvkmNpOrWM1s" version="16.6.6" type="github">
   <diagram id="UcXU_nPncYs_1nkHUFXN" name="Page-1">
-    <mxGraphModel dx="1040" dy="564" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4160" dy="2257" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -200,19 +200,19 @@
         </mxCell>
         <mxCell id="DO30fpSO6sZjtLIamvl7-64" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="DO30fpSO6sZjtLIamvl7-61" target="DO30fpSO6sZjtLIamvl7-102" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="244.99999999999977" y="1400" as="targetPoint" />
+            <mxPoint x="234.99999999999977" y="2140" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="DO30fpSO6sZjtLIamvl7-61" value="로그인 &lt;br&gt;진입" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="150" y="1375" width="50" height="50" as="geometry" />
+          <mxGeometry x="140" y="2115" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="DO30fpSO6sZjtLIamvl7-62" value="&lt;h1&gt;카카오 로그인&lt;/h1&gt;&lt;p&gt;카카오 로그인 버튼을 누르고 진입 시 부터 로그인 성공 및 실패에 관한 프로세스입니다&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="100" y="870" width="190" height="120" as="geometry" />
+          <mxGeometry x="90" y="1610" width="190" height="120" as="geometry" />
         </mxCell>
         <mxCell id="DO30fpSO6sZjtLIamvl7-66" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="DO30fpSO6sZjtLIamvl7-102" target="DO30fpSO6sZjtLIamvl7-67" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="364.9999999999998" y="1400" as="sourcePoint" />
-            <mxPoint x="445" y="1400" as="targetPoint" />
+            <mxPoint x="354.9999999999998" y="2140" as="sourcePoint" />
+            <mxPoint x="435" y="2140" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="DO30fpSO6sZjtLIamvl7-69" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="DO30fpSO6sZjtLIamvl7-67" target="DO30fpSO6sZjtLIamvl7-68" edge="1">
@@ -225,7 +225,7 @@
         </mxCell>
         <mxCell id="DO30fpSO6sZjtLIamvl7-82" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="DO30fpSO6sZjtLIamvl7-67" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="592.5" y="1400" as="targetPoint" />
+            <mxPoint x="582.5" y="2140" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="DO30fpSO6sZjtLIamvl7-85" value="성공" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="DO30fpSO6sZjtLIamvl7-82" vertex="1" connectable="0">
@@ -234,13 +234,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="DO30fpSO6sZjtLIamvl7-67" value="카카오 계정으로 등록된 &lt;br&gt;사용자 &lt;br&gt;존재 확인" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="440" y="1365" width="70" height="70" as="geometry" />
+          <mxGeometry x="430" y="2105" width="70" height="70" as="geometry" />
         </mxCell>
         <mxCell id="DO30fpSO6sZjtLIamvl7-72" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="DO30fpSO6sZjtLIamvl7-68" target="DO30fpSO6sZjtLIamvl7-71" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="DO30fpSO6sZjtLIamvl7-68" value="회원정보 없음 에러 반환" style="whiteSpace=wrap;html=1;strokeWidth=2;rounded=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="415" y="1240" width="120" height="60" as="geometry" />
+          <mxGeometry x="405" y="1980" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DO30fpSO6sZjtLIamvl7-74" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="DO30fpSO6sZjtLIamvl7-71" target="DO30fpSO6sZjtLIamvl7-73" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -252,7 +252,7 @@
         </mxCell>
         <mxCell id="DO30fpSO6sZjtLIamvl7-78" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="DO30fpSO6sZjtLIamvl7-71" target="DO30fpSO6sZjtLIamvl7-61" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="385" y="1155" as="targetPoint" />
+            <mxPoint x="375" y="1895" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="DO30fpSO6sZjtLIamvl7-80" value="no" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="DO30fpSO6sZjtLIamvl7-78" vertex="1" connectable="0">
@@ -261,10 +261,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="DO30fpSO6sZjtLIamvl7-71" value="회원가입 진행" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="440" y="1120" width="70" height="70" as="geometry" />
+          <mxGeometry x="430" y="1860" width="70" height="70" as="geometry" />
         </mxCell>
         <mxCell id="DO30fpSO6sZjtLIamvl7-73" value="카카오 회원가입으로 &lt;br&gt;이동" style="whiteSpace=wrap;html=1;strokeWidth=2;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="415" y="1000" width="120" height="60" as="geometry" />
+          <mxGeometry x="405" y="1740" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DO30fpSO6sZjtLIamvl7-90" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="DO30fpSO6sZjtLIamvl7-87" target="DO30fpSO6sZjtLIamvl7-89" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -273,13 +273,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="DO30fpSO6sZjtLIamvl7-87" value="로그인 성공" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="592.5" y="1370" width="120" height="60" as="geometry" />
+          <mxGeometry x="582.5" y="2110" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DO30fpSO6sZjtLIamvl7-88" value="최종 로그인&lt;br&gt;저장" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="622.5" y="1257.5" width="60" height="60" as="geometry" />
+          <mxGeometry x="612.5" y="1997.5" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DO30fpSO6sZjtLIamvl7-89" value="클라이언트로 &lt;br&gt;로그인 성공 코드 및 &lt;br&gt;토큰 반환" style="whiteSpace=wrap;html=1;strokeWidth=2;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="792.5" y="1370" width="120" height="60" as="geometry" />
+          <mxGeometry x="782.5" y="2110" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DO30fpSO6sZjtLIamvl7-97" value="이메일 입력" style="html=1;strokeWidth=2;shape=manualInput;whiteSpace=wrap;rounded=1;size=26;arcSize=11;" parent="1" vertex="1">
           <mxGeometry x="240" y="352.5" width="100" height="60" as="geometry" />
@@ -288,7 +288,7 @@
           <mxGeometry x="240" y="467.5" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DO30fpSO6sZjtLIamvl7-102" value="&lt;span&gt;카카오로 로그인하기&lt;/span&gt;&lt;br&gt;&lt;span&gt;버튼 클릭&lt;/span&gt;" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;size=0.23;arcSize=10;flipV=1;labelPosition=center;align=center;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="240" y="1370" width="130" height="60" as="geometry" />
+          <mxGeometry x="230" y="2110" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DO30fpSO6sZjtLIamvl7-103" value="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 12px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(248, 249, 250); display: inline; float: none;&quot;&gt;로그인 버튼 클릭&lt;/span&gt;" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;size=0.23;arcSize=10;flipV=1;labelPosition=center;align=center;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="630" y="417.5" width="100" height="60" as="geometry" />
@@ -304,20 +304,20 @@
         </mxCell>
         <mxCell id="11c27CZoFoAQoJgazLJT-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" target="11c27CZoFoAQoJgazLJT-7" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="912.5" y="1400" as="sourcePoint" />
+            <mxPoint x="902.5" y="2140" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="11c27CZoFoAQoJgazLJT-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="11c27CZoFoAQoJgazLJT-7" target="11c27CZoFoAQoJgazLJT-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="11c27CZoFoAQoJgazLJT-7" value="메인페이지로 이동" style="whiteSpace=wrap;html=1;strokeWidth=2;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="992.5" y="1370" width="120" height="60" as="geometry" />
+          <mxGeometry x="982.5" y="2110" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="11c27CZoFoAQoJgazLJT-8" value="종료" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=2;rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="1192.5" y="1370" width="120" height="60" as="geometry" />
+          <mxGeometry x="1182.5" y="2110" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WlExGnnT3Db7niRs0_DH-79" value="0 - 1. 일반 이메일 로그인" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=1;startSize=20;horizontalStack=0;rounded=0;fontSize=10;strokeColor=#BABABA;strokeWidth=1;swimlaneLine=1;shadow=0;sketch=0;" vertex="1" parent="1">
-          <mxGeometry x="100" y="1630" width="1510" height="725" as="geometry" />
+          <mxGeometry x="80" y="740" width="1510" height="725" as="geometry" />
         </mxCell>
         <mxCell id="WlExGnnT3Db7niRs0_DH-80" value="Client" style="swimlane;startSize=20;horizontal=0;rounded=0;fontSize=10;strokeColor=#6c8ebf;strokeWidth=1;fillColor=#dae8fc;swimlaneLine=1;shadow=0;sketch=0;" vertex="1" parent="WlExGnnT3Db7niRs0_DH-79">
           <mxGeometry y="20" width="1510" height="180" as="geometry" />
@@ -564,7 +564,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WlExGnnT3Db7niRs0_DH-155" value="user 테이블" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;rounded=0;fontSize=10;strokeColor=#6c8ebf;swimlaneLine=1;shadow=0;sketch=0;fillColor=#dae8fc;" vertex="1" parent="1">
-          <mxGeometry x="777" y="2247.5" width="60" height="60" as="geometry" />
+          <mxGeometry x="757" y="1357.5" width="60" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
