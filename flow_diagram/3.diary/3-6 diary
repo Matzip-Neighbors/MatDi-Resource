@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-03-06T06:34:32.394Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="2FFhVl0jOQYk-5MtkfWI" version="16.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-06T08:54:48.990Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="aJ2ifRipupErvdIGv5uy" version="16.6.5" type="github">
   <diagram id="xPmarshvjX9jDK3-EJr3" name="Page-1">
-    <mxGraphModel dx="1920" dy="1042" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1209" dy="785" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -230,7 +230,7 @@
         <mxCell id="QuR8jAhU_RQG4XANRL1L-106" value="게시물&lt;br&gt;좋아요가&lt;br&gt;되어있나?" style="rhombus;whiteSpace=wrap;html=1;fontSize=10;strokeColor=#BABABA;arcSize=10;rounded=1;strokeWidth=1;swimlaneLine=1;shadow=0;sketch=0;" parent="QuR8jAhU_RQG4XANRL1L-66" vertex="1">
           <mxGeometry x="1010" y="7.5" width="70" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="QuR8jAhU_RQG4XANRL1L-129" value="성공코드 반환 및&lt;br&gt;좋아요 갯수 반환" style="whiteSpace=wrap;html=1;fontSize=10;strokeColor=#BABABA;arcSize=10;rounded=1;strokeWidth=1;swimlaneLine=1;shadow=0;sketch=0;" parent="QuR8jAhU_RQG4XANRL1L-66" vertex="1">
+        <mxCell id="QuR8jAhU_RQG4XANRL1L-129" value="성공코드 반환 및&lt;br&gt;좋아요 갯수 반환" style="whiteSpace=wrap;html=1;fontSize=10;strokeColor=#6c8ebf;arcSize=10;rounded=1;strokeWidth=1;swimlaneLine=1;shadow=0;sketch=0;fillColor=#dae8fc;" parent="QuR8jAhU_RQG4XANRL1L-66" vertex="1">
           <mxGeometry x="1201" y="81.25" width="90" height="45" as="geometry" />
         </mxCell>
         <mxCell id="QuR8jAhU_RQG4XANRL1L-111" value="좋아요 취소 - 1 및&lt;br&gt;좋아요 갯수&lt;br&gt;가져오기" style="whiteSpace=wrap;html=1;fontSize=10;strokeColor=#BABABA;arcSize=10;rounded=1;strokeWidth=1;swimlaneLine=1;shadow=0;sketch=0;" parent="QuR8jAhU_RQG4XANRL1L-66" vertex="1">
@@ -251,8 +251,17 @@
         <mxCell id="QuR8jAhU_RQG4XANRL1L-131" value="Like 테이블" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;rounded=0;fontSize=10;strokeColor=#BABABA;swimlaneLine=1;shadow=0;sketch=0;" parent="QuR8jAhU_RQG4XANRL1L-67" vertex="1">
           <mxGeometry x="955" y="30" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="QuR8jAhU_RQG4XANRL1L-132" value="Like 테이블" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;rounded=0;fontSize=10;strokeColor=#BABABA;swimlaneLine=1;shadow=0;sketch=0;" parent="QuR8jAhU_RQG4XANRL1L-67" vertex="1">
+        <mxCell id="QuR8jAhU_RQG4XANRL1L-132" value="Like 테이블" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;rounded=0;fontSize=10;strokeColor=#82b366;swimlaneLine=1;shadow=0;sketch=0;fillColor=#d5e8d4;" parent="QuR8jAhU_RQG4XANRL1L-67" vertex="1">
           <mxGeometry x="1075" y="30" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="prpQe9Iwski7G8VKl_DH-1" value="diary 테이블" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;rounded=0;fontSize=10;strokeColor=#82b366;swimlaneLine=1;shadow=0;sketch=0;fillColor=#d5e8d4;" vertex="1" parent="QuR8jAhU_RQG4XANRL1L-67">
+          <mxGeometry x="320" y="30" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="prpQe9Iwski7G8VKl_DH-2" value="diary 테이블" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;rounded=0;fontSize=10;strokeColor=#82b366;swimlaneLine=1;shadow=0;sketch=0;fillColor=#d5e8d4;" vertex="1" parent="QuR8jAhU_RQG4XANRL1L-67">
+          <mxGeometry x="712" y="30" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="prpQe9Iwski7G8VKl_DH-3" value="Like 테이블" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;rounded=0;fontSize=10;strokeColor=#82b366;swimlaneLine=1;shadow=0;sketch=0;fillColor=#d5e8d4;" vertex="1" parent="QuR8jAhU_RQG4XANRL1L-67">
+          <mxGeometry x="955" y="30" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QuR8jAhU_RQG4XANRL1L-72" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#6C8EBF;" parent="QuR8jAhU_RQG4XANRL1L-58" source="QuR8jAhU_RQG4XANRL1L-63" target="QuR8jAhU_RQG4XANRL1L-71" edge="1">
           <mxGeometry relative="1" as="geometry" />
