@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-08T12:53:16.204Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="geGNKomihcn_cF7X1R7z" version="16.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-08T13:35:18.951Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="fRhMKLB_TpISP6zZSKxs" version="16.6.6" type="github">
   <diagram id="f-wdtSK4ejGGPJ20R3xY" name="Page-1">
     <mxGraphModel dx="1008" dy="2308" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -1499,7 +1499,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="BuMR8tH4x6ELeY5d7bIp-331" value="3-1A. 리뷰 조회 -  해시태그 버튼 클릭" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=1;startSize=20;horizontalStack=0;rounded=0;fontSize=10;strokeColor=#9673a6;strokeWidth=1;swimlaneLine=1;shadow=0;sketch=0;fillColor=#e1d5e7;" parent="1" vertex="1">
-          <mxGeometry x="380" y="4040" width="2690" height="731.25" as="geometry" />
+          <mxGeometry x="380" y="4040" width="2690" height="561.25" as="geometry" />
         </mxCell>
         <mxCell id="BuMR8tH4x6ELeY5d7bIp-332" value="Client" style="swimlane;startSize=20;horizontal=0;rounded=0;fontSize=10;strokeColor=#6c8ebf;strokeWidth=1;fillColor=#dae8fc;swimlaneLine=1;shadow=0;sketch=0;" parent="BuMR8tH4x6ELeY5d7bIp-331" vertex="1">
           <mxGeometry y="20" width="2690" height="153.75" as="geometry" />
@@ -1709,27 +1709,6 @@
         <mxCell id="BuMR8tH4x6ELeY5d7bIp-373" value="다이어리가&lt;br&gt;존재하는가?" style="rhombus;whiteSpace=wrap;html=1;fontSize=10;strokeColor=#BABABA;arcSize=10;rounded=1;strokeWidth=1;swimlaneLine=1;shadow=0;sketch=0;" parent="BuMR8tH4x6ELeY5d7bIp-369" vertex="1">
           <mxGeometry x="454" y="52.5" width="70" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="BuMR8tH4x6ELeY5d7bIp-386" value="Database" style="swimlane;startSize=20;horizontal=0;rounded=0;fontSize=10;strokeColor=#b85450;strokeWidth=1;fillColor=#f8cecc;swimlaneLine=1;shadow=0;sketch=0;" parent="BuMR8tH4x6ELeY5d7bIp-331" vertex="1">
-          <mxGeometry y="561.25" width="2690" height="170" as="geometry" />
-        </mxCell>
-        <mxCell id="BuMR8tH4x6ELeY5d7bIp-419" value="맛집 테이블" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;rounded=0;fontSize=10;strokeColor=#82b366;swimlaneLine=1;shadow=0;sketch=0;fillColor=#d5e8d4;" parent="BuMR8tH4x6ELeY5d7bIp-386" vertex="1">
-          <mxGeometry x="1310" y="20" width="60" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="BuMR8tH4x6ELeY5d7bIp-389" value="diary 테이블" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;rounded=0;fontSize=10;strokeColor=#82b366;swimlaneLine=1;shadow=0;sketch=0;fillColor=#d5e8d4;" parent="BuMR8tH4x6ELeY5d7bIp-386" vertex="1">
-          <mxGeometry x="320" y="90" width="60" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="BuMR8tH4x6ELeY5d7bIp-391" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#6C8EBF;" parent="BuMR8tH4x6ELeY5d7bIp-386" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="340" y="-30" as="sourcePoint" />
-            <mxPoint x="340" y="90" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="BuMR8tH4x6ELeY5d7bIp-379" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;strokeColor=#6C8EBF;" parent="BuMR8tH4x6ELeY5d7bIp-386" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="360" y="90" as="sourcePoint" />
-            <mxPoint x="360" y="-30" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="BuMR8tH4x6ELeY5d7bIp-377" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#6C8EBF;" parent="BuMR8tH4x6ELeY5d7bIp-331" source="BuMR8tH4x6ELeY5d7bIp-373" target="BuMR8tH4x6ELeY5d7bIp-376" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -1737,12 +1716,6 @@
           <mxGeometry x="0.4742" relative="1" as="geometry">
             <mxPoint x="590" y="388" as="targetPoint" />
             <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="BuMR8tH4x6ELeY5d7bIp-366" value="" style="rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;strokeColor=#6C8EBF;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="BuMR8tH4x6ELeY5d7bIp-331" source="BuMR8tH4x6ELeY5d7bIp-345" target="BuMR8tH4x6ELeY5d7bIp-419" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1339" y="121" as="sourcePoint" />
-            <mxPoint x="1338.7599999999998" y="571.9000000000005" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="3O6DN5hN2--zDn8rlLlV-55" value="3-1A. 다이어리 작성" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=1;startSize=20;horizontalStack=0;rounded=0;fontSize=10;strokeColor=#9673a6;strokeWidth=1;swimlaneLine=1;shadow=0;sketch=0;fillColor=#e1d5e7;" vertex="1" parent="1">
@@ -1803,6 +1776,33 @@
         </mxCell>
         <mxCell id="3O6DN5hN2--zDn8rlLlV-109" value="별점 확인" style="whiteSpace=wrap;html=1;fontSize=10;strokeColor=#BABABA;arcSize=10;rounded=1;strokeWidth=1;swimlaneLine=1;shadow=0;sketch=0;" vertex="1" parent="3O6DN5hN2--zDn8rlLlV-101">
           <mxGeometry x="305" y="5" width="90" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="BuMR8tH4x6ELeY5d7bIp-386" value="Database" style="swimlane;startSize=20;horizontal=0;rounded=0;fontSize=10;strokeColor=#b85450;strokeWidth=1;fillColor=#f8cecc;swimlaneLine=1;shadow=0;sketch=0;" parent="1" vertex="1">
+          <mxGeometry x="380" y="4601.25" width="2690" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="BuMR8tH4x6ELeY5d7bIp-419" value="맛집 테이블" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;rounded=0;fontSize=10;strokeColor=#82b366;swimlaneLine=1;shadow=0;sketch=0;fillColor=#d5e8d4;" parent="BuMR8tH4x6ELeY5d7bIp-386" vertex="1">
+          <mxGeometry x="1310" y="20" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BuMR8tH4x6ELeY5d7bIp-389" value="diary 테이블" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;rounded=0;fontSize=10;strokeColor=#82b366;swimlaneLine=1;shadow=0;sketch=0;fillColor=#d5e8d4;" parent="BuMR8tH4x6ELeY5d7bIp-386" vertex="1">
+          <mxGeometry x="320" y="90" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BuMR8tH4x6ELeY5d7bIp-391" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#6C8EBF;" parent="BuMR8tH4x6ELeY5d7bIp-386" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="340" y="-30" as="sourcePoint" />
+            <mxPoint x="340" y="90" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BuMR8tH4x6ELeY5d7bIp-379" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;strokeColor=#6C8EBF;" parent="BuMR8tH4x6ELeY5d7bIp-386" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="360" y="90" as="sourcePoint" />
+            <mxPoint x="360" y="-30" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BuMR8tH4x6ELeY5d7bIp-366" value="" style="rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;strokeColor=#6C8EBF;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="BuMR8tH4x6ELeY5d7bIp-345" target="BuMR8tH4x6ELeY5d7bIp-419" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1719" y="4161" as="sourcePoint" />
+            <mxPoint x="1718.7599999999998" y="4611.900000000001" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
