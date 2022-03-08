@@ -1,127 +1,14 @@
-<mxfile host="app.diagrams.net" modified="2022-03-06T08:54:48.990Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="aJ2ifRipupErvdIGv5uy" version="16.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-08T13:15:59.833Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="oLFYdMQ0FrYhKaQizYiA" version="16.6.6" type="github">
   <diagram id="xPmarshvjX9jDK3-EJr3" name="Page-1">
-    <mxGraphModel dx="1209" dy="785" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2126" dy="967" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="tgl5bWQgzvrWnE-uonU6-1" value="&lt;h1&gt;좋아요 및 좋아요 취소 기능&lt;/h1&gt;&lt;span style=&quot;text-align: center&quot;&gt;다이어리 리스트 혹은 디테일 페이지에서 &lt;br&gt;&lt;/span&gt;&lt;span style=&quot;text-align: center&quot;&gt;좋아요 버튼 활성화 여부에 따라 좋아요 수 &lt;b&gt;&lt;font color=&quot;#0000ff&quot;&gt;&lt;font style=&quot;font-size: 15px&quot;&gt;+&lt;/font&gt;&lt;font style=&quot;font-size: 15px&quot;&gt;1&lt;/font&gt;&lt;/font&gt;&lt;/b&gt; 혹은 &lt;b&gt;&lt;font style=&quot;font-size: 15px&quot; color=&quot;#ff0800&quot;&gt;-1&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="20" y="20" width="320" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="DyNW1yYLoUfUbRQGTegj-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;fontColor=#0000FF;" parent="1" target="DyNW1yYLoUfUbRQGTegj-6" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="280" y="400" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="tgl5bWQgzvrWnE-uonU6-3" value="&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34;&quot;&gt;다이어리 리스트, &lt;br&gt;디테일 페이지에서&lt;/span&gt;&lt;br style=&quot;font-family: &amp;#34;helvetica&amp;#34;&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34;&quot;&gt;좋아요 버튼 클릭&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="190" y="370" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="JdXiLIUNeQ9j64tAhuXN-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="DyNW1yYLoUfUbRQGTegj-6" target="JdXiLIUNeQ9j64tAhuXN-2" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="DyNW1yYLoUfUbRQGTegj-6" value="&lt;font face=&quot;helvetica&quot;&gt;해당 게시글 번호와&amp;nbsp;&lt;br&gt;좋아요 여부, &lt;br&gt;유저 정보&amp;nbsp;&lt;br&gt;서버로 전송&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="360" y="370" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="DyNW1yYLoUfUbRQGTegj-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=19;fontColor=#FF0800;" parent="1" source="DyNW1yYLoUfUbRQGTegj-12" target="DyNW1yYLoUfUbRQGTegj-22" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="eqBHRF__Wo-paUE4Ahhw-1" value="&lt;font color=&quot;#ff2119&quot; size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 15px&quot;&gt;False&lt;/b&gt;&lt;/font&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="DyNW1yYLoUfUbRQGTegj-12" target="DyNW1yYLoUfUbRQGTegj-19" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="DyNW1yYLoUfUbRQGTegj-12" value="로그인 여부 체크" style="rhombus;whiteSpace=wrap;html=1;fontSize=12;fontColor=#000000;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="837" y="350" width="100" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="DyNW1yYLoUfUbRQGTegj-19" value="로그인 페이지로&amp;nbsp;&lt;br&gt;Redirect" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="827" y="220" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="DyNW1yYLoUfUbRQGTegj-25" value="&lt;font color=&quot;#0000ff&quot;&gt;True&lt;/font&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=19;fontColor=#FF0800;" parent="1" source="DyNW1yYLoUfUbRQGTegj-22" target="DyNW1yYLoUfUbRQGTegj-26" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1176.9999999999998" y="399.9999999999999" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="DyNW1yYLoUfUbRQGTegj-28" value="False" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=19;fontColor=#FF0800;" parent="1" source="DyNW1yYLoUfUbRQGTegj-22" target="DyNW1yYLoUfUbRQGTegj-27" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="DyNW1yYLoUfUbRQGTegj-22" value="게시글 좋아요 &lt;br&gt;여부 체크" style="rhombus;whiteSpace=wrap;html=1;fontSize=12;fontColor=#000000;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="1017" y="350" width="100" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="DyNW1yYLoUfUbRQGTegj-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;fontColor=#0000FF;" parent="1" source="DyNW1yYLoUfUbRQGTegj-26" target="DyNW1yYLoUfUbRQGTegj-30" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="DyNW1yYLoUfUbRQGTegj-26" value="&lt;font style=&quot;font-size: 12px&quot; color=&quot;#000000&quot;&gt;좋아요 +1&amp;nbsp;&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=19;fontColor=#FF0800;" parent="1" vertex="1">
-          <mxGeometry x="1206.9999999999998" y="369.9999999999999" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="DyNW1yYLoUfUbRQGTegj-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;fontColor=#000000;" parent="1" source="DyNW1yYLoUfUbRQGTegj-27" target="DyNW1yYLoUfUbRQGTegj-32" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="DyNW1yYLoUfUbRQGTegj-27" value="좋아요 취소 (-1)&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#000000;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="1007" y="220" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="JdXiLIUNeQ9j64tAhuXN-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;fontColor=#242120;" parent="1" source="DyNW1yYLoUfUbRQGTegj-30" target="JdXiLIUNeQ9j64tAhuXN-14" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="DyNW1yYLoUfUbRQGTegj-30" value="&lt;font color=&quot;#000000&quot;&gt;DB&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;fontSize=12;fontColor=#0000FF;" parent="1" vertex="1">
-          <mxGeometry x="1377" y="370" width="60" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="JdXiLIUNeQ9j64tAhuXN-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;fontColor=#242120;" parent="1" source="DyNW1yYLoUfUbRQGTegj-32" target="JdXiLIUNeQ9j64tAhuXN-16" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="DyNW1yYLoUfUbRQGTegj-32" value="DB" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;fontSize=12;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="1037" y="120" width="60" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="SMVBH95Z_x8i-ALFX8xW-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="SMVBH95Z_x8i-ALFX8xW-2" target="tgl5bWQgzvrWnE-uonU6-3" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="SMVBH95Z_x8i-ALFX8xW-2" value="&lt;font face=&quot;helvetica&quot;&gt;다이어리 리스트&lt;br&gt;가져오기&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="20" y="370" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="JdXiLIUNeQ9j64tAhuXN-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="JdXiLIUNeQ9j64tAhuXN-1" target="DyNW1yYLoUfUbRQGTegj-12" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="670" y="400" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="JdXiLIUNeQ9j64tAhuXN-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;fontColor=#242120;" parent="1" source="JdXiLIUNeQ9j64tAhuXN-1" target="JdXiLIUNeQ9j64tAhuXN-8" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="JdXiLIUNeQ9j64tAhuXN-1" value="게시글 존재 &lt;br&gt;여부 체크" style="rhombus;whiteSpace=wrap;html=1;fontSize=12;fontColor=#000000;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="620" y="350" width="100" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="JdXiLIUNeQ9j64tAhuXN-2" value="" style="shape=waypoint;sketch=0;size=6;pointerEvents=1;points=[];fillColor=default;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="600" y="380" width="40" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="JdXiLIUNeQ9j64tAhuXN-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;fontColor=#242120;" parent="1" source="JdXiLIUNeQ9j64tAhuXN-5" target="JdXiLIUNeQ9j64tAhuXN-12" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="JdXiLIUNeQ9j64tAhuXN-5" value="&lt;b&gt;&quot;해당 게시글이 더이상 존재하지 않습니다.&quot; 에러 출력&lt;/b&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="615" y="130" width="110" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="JdXiLIUNeQ9j64tAhuXN-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;fontColor=#242120;" parent="1" source="JdXiLIUNeQ9j64tAhuXN-8" target="JdXiLIUNeQ9j64tAhuXN-5" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="JdXiLIUNeQ9j64tAhuXN-8" value="&lt;font color=&quot;#ff1605&quot;&gt;&lt;b&gt;다이어리 미존재(404) 코드 반환&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="610" y="250" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="JdXiLIUNeQ9j64tAhuXN-12" value="&lt;font face=&quot;helvetica&quot;&gt;다이어리 디테일 이전 페이지로 이동&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="400" y="135" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="JdXiLIUNeQ9j64tAhuXN-14" value="200 코드 반환 후에 좋아요 아이콘 변경" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="1487" y="370" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="JdXiLIUNeQ9j64tAhuXN-16" value="200 코드 반환 후에 좋아요 아이콘 변경" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="1007" y="10" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="G1d2AATka7BRYul_cLFW-1" value="&lt;font style=&quot;font-size: 12px&quot; color=&quot;#000000&quot;&gt;좋아요 +1&amp;nbsp;&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=19;fontColor=#FF0800;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="1206.9999999999998" y="369.9999999999999" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="G1d2AATka7BRYul_cLFW-2" value="&lt;font face=&quot;helvetica&quot;&gt;다이어리 디테일 이전 페이지로 이동&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="400" y="135" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="G1d2AATka7BRYul_cLFW-3" value="&lt;font color=&quot;#000000&quot;&gt;DB&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;fontSize=12;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="1377" y="370" width="60" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="QuR8jAhU_RQG4XANRL1L-58" value="3-6A, B 좋아요 및 좋아요 취소 기능" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=1;startSize=20;horizontalStack=0;rounded=0;fontSize=10;strokeColor=#BABABA;strokeWidth=1;swimlaneLine=1;shadow=0;sketch=0;" parent="1" vertex="1">
-          <mxGeometry x="20" y="570" width="1360" height="625" as="geometry" />
+          <mxGeometry x="20" y="130" width="1360" height="625" as="geometry" />
         </mxCell>
         <mxCell id="QuR8jAhU_RQG4XANRL1L-59" value="Client" style="swimlane;startSize=20;horizontal=0;rounded=0;fontSize=10;strokeColor=#6c8ebf;strokeWidth=1;fillColor=#dae8fc;swimlaneLine=1;shadow=0;sketch=0;" parent="QuR8jAhU_RQG4XANRL1L-58" vertex="1">
           <mxGeometry y="20" width="1360" height="120" as="geometry" />
@@ -254,13 +141,13 @@
         <mxCell id="QuR8jAhU_RQG4XANRL1L-132" value="Like 테이블" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;rounded=0;fontSize=10;strokeColor=#82b366;swimlaneLine=1;shadow=0;sketch=0;fillColor=#d5e8d4;" parent="QuR8jAhU_RQG4XANRL1L-67" vertex="1">
           <mxGeometry x="1075" y="30" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="prpQe9Iwski7G8VKl_DH-1" value="diary 테이블" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;rounded=0;fontSize=10;strokeColor=#82b366;swimlaneLine=1;shadow=0;sketch=0;fillColor=#d5e8d4;" vertex="1" parent="QuR8jAhU_RQG4XANRL1L-67">
+        <mxCell id="prpQe9Iwski7G8VKl_DH-1" value="diary 테이블" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;rounded=0;fontSize=10;strokeColor=#82b366;swimlaneLine=1;shadow=0;sketch=0;fillColor=#d5e8d4;" parent="QuR8jAhU_RQG4XANRL1L-67" vertex="1">
           <mxGeometry x="320" y="30" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="prpQe9Iwski7G8VKl_DH-2" value="diary 테이블" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;rounded=0;fontSize=10;strokeColor=#82b366;swimlaneLine=1;shadow=0;sketch=0;fillColor=#d5e8d4;" vertex="1" parent="QuR8jAhU_RQG4XANRL1L-67">
+        <mxCell id="prpQe9Iwski7G8VKl_DH-2" value="diary 테이블" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;rounded=0;fontSize=10;strokeColor=#82b366;swimlaneLine=1;shadow=0;sketch=0;fillColor=#d5e8d4;" parent="QuR8jAhU_RQG4XANRL1L-67" vertex="1">
           <mxGeometry x="712" y="30" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="prpQe9Iwski7G8VKl_DH-3" value="Like 테이블" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;rounded=0;fontSize=10;strokeColor=#82b366;swimlaneLine=1;shadow=0;sketch=0;fillColor=#d5e8d4;" vertex="1" parent="QuR8jAhU_RQG4XANRL1L-67">
+        <mxCell id="prpQe9Iwski7G8VKl_DH-3" value="Like 테이블" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;rounded=0;fontSize=10;strokeColor=#82b366;swimlaneLine=1;shadow=0;sketch=0;fillColor=#d5e8d4;" parent="QuR8jAhU_RQG4XANRL1L-67" vertex="1">
           <mxGeometry x="955" y="30" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QuR8jAhU_RQG4XANRL1L-72" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#6C8EBF;" parent="QuR8jAhU_RQG4XANRL1L-58" source="QuR8jAhU_RQG4XANRL1L-63" target="QuR8jAhU_RQG4XANRL1L-71" edge="1">
